@@ -1,0 +1,24 @@
+# Binaries
+*.exe
+*.test
+*.out
+/vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Agent configs
+AGENTS.md
+.kiro/
+.cursor/
+REMOTE.md
+reference/
+debug/
+todo*
